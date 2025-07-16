@@ -1,0 +1,13 @@
+Supabase
+Project Name: Web_portofolio_fullstack
+Password: PortofolioGilbert35
+
+Host:
+Database Name: Web_portofolio_fullstack
+Port: 
+Auth version: 2.177.0
+PostgREST version: 12.2.3
+Postgres version: 17.4.1.054
+
+Project URL: https://eiclpttpefbxxsjagltq.supabase.co
+Anon/Public Key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVpY2xwdHRwZWZieHhzamFnbHRxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTI1ODgwMDYsImV4cCI6MjA2ODE2NDAwNn0.3F7eOjqJ9LHQnwZnUhVqbuaxz9jwMgjsudfTrDyO2jY
